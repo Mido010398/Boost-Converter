@@ -360,3 +360,7 @@ Use at your own risk.
 
 ---
 
+## 🔖 Tags
+`#BoostConverter` `#DCDC` `#PowerElectronics` `#Arduino` `#ArduinoNano`  
+`#SMPS` `#PWM` `#TLP250` `#INA219` `#MOSFET`  
+`#PCBDesign` `#EmbeddedSystems` `#HardwareProject` `#Electronics`
