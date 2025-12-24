@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/main.png" alt="Boost Converter Project - AstraVolt" width="700">
+</p>
+
+
 # 🔌 Boost Converter Project – AstraVolt
 
 ## 📌 Project Overview
