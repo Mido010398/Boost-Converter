@@ -1,7 +1,12 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Arduino-Nano-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PWM-50kHz-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power–Electronics-orange?style=for-the-badge">
+</p>
+<p align="center">
   <img src="images/Final_Project/Final_Project.JPG" alt="Boost Converter Project - AstraVolt" width="700">
 </p>
-
 
 # 🔌 Boost Converter Project – AstraVolt
 
