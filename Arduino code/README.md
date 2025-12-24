@@ -1,5 +1,10 @@
 # Arduino Firmware – Boost Converter (AstraVolt)
 
+
+![Arduino](https://img.shields.io/badge/Arduino-Nano-blue)
+![PWM](https://img.shields.io/badge/PWM-50kHz-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Overview
 This firmware controls an **asynchronous DC–DC Boost Converter** developed by the **AstraVolt Team**.  
 It generates a **50 kHz PWM** signal to drive the MOSFET, measures output voltage and current, and displays the results on an LCD.
@@ -58,5 +63,5 @@ It generates a **50 kHz PWM** signal to drive the MOSFET, measures output voltag
 ---
 
 ## License
-MIT License (Engineering Extension)  
+MIT License  
 Use at your own risk.
