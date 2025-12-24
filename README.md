@@ -124,9 +124,9 @@ The Arduino firmware performs the following tasks:
 - Displays data on LCD and Serial Monitor  
 
 <p align="center">
-  <a href="images/LTspice_Simulation">
+  <a href="Arduino code/BoostConverter.ino">
     <kbd>
-      <img src="https://sc.filehippo.net/images/t_app-icon-l/p/d55e21eb-857a-4b0e-8403-584ec5ce0543/3008849045/ltspice-logo" width="100">
+      <img src="https://ai.thestempedia.com/wp-content/uploads/2017/06/Arduino-Logo.png" width="100">
     </kbd>
   </a>
 </p>
