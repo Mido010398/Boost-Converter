@@ -189,12 +189,12 @@ All boards were fully assembled, interconnected, and tested as a complete workin
 ---
 
 ### 🔹 Boost Converter Board
-![final  Boost Converter](images/TLP250_Gate_Driver/Final_TLP250_Gate_Driver.JPG)
+![final Boost Converter](images/Boost_Converter/Final_Boost_Converter.jpeg)
 
 ---
 
 ### 🔹 Complete System After Assembly
-📷 **[Insert full system image after soldering]**
+![final Complete System](images/Final_Project/Final_project2.jpeg)
 
 ---
 
@@ -205,7 +205,7 @@ All boards were fully assembled, interconnected, and tested as a complete workin
 - Real-time voltage and current monitoring
 - Significant improvement after adding feedback control
 
-📷 **[Insert hardware testing images]**
+![Hardware Testing](images/Testing_and_anthor_data.png)
 
 ---
 
