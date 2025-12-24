@@ -71,7 +71,7 @@ The system consists of the following main blocks:
 - Diode is reverse-biased  
 - Load is supplied by the output capacitor  
 
-![Energy Storage Mode](images/Boost_Converter/Frist_operationg_mode.png)
+![Energy Storage Mode](images/Boost_Converter/second_operating_mode.png)
 
 ---
 
@@ -81,7 +81,7 @@ The system consists of the following main blocks:
 - Diode conducts  
 - Output voltage becomes higher than input voltage  
 
-📷 **[Insert energy transfer mode diagram]**
+![Energy Transfer Mode](images/Boost_Converter/Frist_operationg_mode.png)
 
 ---
 
@@ -130,17 +130,74 @@ The design was verified using:
 ---
 
 ## 🧱 PCB Design
-The PCB was designed using **EasyEDA** and includes:
-- A dedicated PCB for the gate driver
-- A main PCB for the boost converter
-- Proper power routing and isolation
-- 3D PCB visualization
 
-📷 **[Insert schematic images]**  
-📷 **[Insert PCB top & bottom layers]**  
-📷 **[Insert 3D PCB view]**
+The PCB design of this project was developed using **EasyEDA** and is divided into two main sections:
+1. **Isolated Gate Driver (TLP250)**
+2. **Boost Converter Power Stage**
+
+The separation improves safety, noise immunity, and overall system reliability.
 
 ---
+
+### 🔹 Gate Driver PCB (TLP250)
+
+The gate driver PCB provides **galvanic isolation** between the low-voltage control circuit (Arduino) and the high-power switching stage.  
+It ensures clean gate signals, protects the controller, and reduces EMI.
+
+#### 🔸 Gate Driver Schematic
+![PCB Schematic](images/TLP250_Gate_Driver/Schematic_TLP250_Driver.png)
+
+#### 🔸 Gate Driver PCB Layout
+![PCB Layout](images/TLP250_Gate_Driver/PCB_TLP250_Driver.png)
+
+#### 🔸 Gate Driver 3D View
+![3D PCB View](images/TLP250_Gate_Driver/3D_PCB_TLP250_Driver.png)
+
+---
+
+### 🔹 Boost Converter PCB
+
+The boost converter PCB contains the **power stage components**, including the MOSFET, inductor, diode, and output capacitor.  
+Special attention was given to:
+- Short high-current paths  
+- Proper grounding  
+- Thermal performance  
+- High-voltage clearance  
+
+#### 🔸 Boost Converter Schematic
+![PCB Schematic](images/Boost_Converter/Schematic_Boost_Converter.png)
+
+#### 🔸 Boost Converter PCB Layout
+![PCB Layout](images/Boost_Converter/PCB_Boost_Converter.png)
+
+#### 🔸 Boost Converter PCB 3D View
+![3D PCB View](images/Boost_Converter/3D_PCB_Boost_Converter2.png)
+
+---
+
+## 🛠️ Final Assembled Hardware
+
+This section shows the **final hardware implementation after complete soldering and assembly**.
+
+All boards were fully assembled, interconnected, and tested as a complete working system.
+
+---
+
+### 🔹 Gate Driver Board (TLP250)
+![final gate driver](images/TLP250_Gate_Driver/Final_TLP250_Gate_Driver.JPG)
+
+---
+
+### 🔹 Boost Converter Board
+![final  Boost Converter](images/TLP250_Gate_Driver/Final_TLP250_Gate_Driver.JPG)
+
+---
+
+### 🔹 Complete System After Assembly
+📷 **[Insert full system image after soldering]**
+
+---
+
 
 ## 🧪 Testing & Results
 - Tested at multiple duty cycle values
