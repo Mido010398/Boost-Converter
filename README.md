@@ -72,7 +72,7 @@ The system consists of the following main blocks:
 - Load is supplied by the output capacitor  
 
 images/Boost Converter/Frist operationg mode.png
-![/Frist operationg mode](images/Boost Converter/Frist operationg mode.png)
+![Frist operationg mode](images/Boost Converter/Frist operationg mode.png)
 
 ---
 
