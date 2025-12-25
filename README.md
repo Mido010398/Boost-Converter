@@ -362,10 +362,11 @@ please refer to the complete project report.
 | Name | GitHub | Name | GitHub |
 |------|--------|------|--------|
 | Omar Salama | [@OmarSalama](https://github.com/Omar-Salama-1) | Omar Fetian | [@OmarFetian](https://github.com/omarfetian)  |
-| Omar Roman | — | Abdelrhaman Reda | — |
+| Omar Roman | — | Abdelrhaman Reda | [@AbdelrhamanReda](https://github.com/Abd-AlRhman-Reda) |
 | Romissa Elhadidi | [@RomissaElhadidi](https://github.com/romisaaelhdaidi) |Hussein Aboalkheer| — |
 | Renda Reka | — | —| — |
 
+https://github.com/Abd-AlRhman-Reda
 ---
 ## 📜 License
 This project is released under the  
