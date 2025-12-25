@@ -366,7 +366,6 @@ please refer to the complete project report.
 | Romissa Elhadidi | [@RomissaElhadidi](https://github.com/romisaaelhdaidi) |Hussein Aboalkheer| — |
 | Renda Reka | — | —| — |
 
-https://github.com/Abd-AlRhman-Reda
 ---
 ## 📜 License
 This project is released under the  
