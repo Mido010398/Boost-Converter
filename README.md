@@ -364,8 +364,9 @@ please refer to the complete project report.
 | Omar Salama | [@OmarSalama](https://github.com/Omar-Salama-1) | Omar Fetian | [@OmarFetian](https://github.com/omarfetian)  |
 | Omar Roman | — | Abdelrhaman Reda | [@AbdelrhamanReda](https://github.com/Abd-AlRhman-Reda) |
 | Romissa Elhadidi | [@RomissaElhadidi](https://github.com/romisaaelhdaidi) |Hussein Aboalkheer| — |
-| Renda Reka | — | —| — |
+| Renda Reka | [@RendaReka](https://github.com/renadareka327) | —| — |
 
+https://github.com/renadareka327
 ---
 ## 📜 License
 This project is released under the  
